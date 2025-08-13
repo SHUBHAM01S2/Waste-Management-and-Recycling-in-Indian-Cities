@@ -78,7 +78,7 @@ New features created:
 
 ```bash
 # Clone repository
-git clone https://github.com/username/waste-management-predictor.git
+git clone https://github.com/shubham01s2/Waste-Management-and-Recycling-in-Indian-Cities.git
 cd waste-management-predictor
 
 # Install dependencies
